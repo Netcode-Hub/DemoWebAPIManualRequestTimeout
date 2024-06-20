@@ -5,7 +5,7 @@ namespace DemoWebAPIManualRequestTimeout.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class WeatherForecastController(IService service) : ControllerBase
+    public class RequestTimeoutController(IService service) : ControllerBase
     {
         [HttpGet]
         public async Task<IActionResult> Get()
