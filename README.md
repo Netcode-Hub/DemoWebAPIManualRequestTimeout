@@ -2,7 +2,7 @@
 ![image](https://github.com/Netcode-Hub/DemoWebAPIManualRequestTimeout/assets/110794348/ddaf788d-03d2-45e7-b9c0-1a303034a23c)
 
 # Introduction:
-"Welcome back to my channel, tech enthusiasts! In today's video, we're diving deep into the world of Web APIs. Have you ever wondered how to handle scenarios where a request takes too long to process? Well, today we're going to explore a crucial aspect of API development: manually introducing a Request Timeout. By the end of this tutorial, you'll have a solid understanding of how to manage long-running requests and ensure your APIs remain responsive and reliable. So, let's get started!"
+"Welcome back , tech enthusiasts!, today, we're diving deep into the world of Web APIs. Have you ever wondered how to handle scenarios where a request takes too long to process? Well, today we're going to explore a crucial aspect of API development: manually introducing a Request Timeout. By the end of this tutorial, you'll have a solid understanding of how to manage long-running requests and ensure your APIs remain responsive and reliable. So, let's get started!"
 
 # Add Request Timeout Middleware
     app.MapControllers();
