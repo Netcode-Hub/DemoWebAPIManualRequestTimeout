@@ -58,3 +58,15 @@
   
 # Conclusion:
 "That wraps up our guide on manually implementing Request Timeout in your Web APIs. We hope this tutorial has been helpful and that you now feel more confident in managing request durations in your projects. Remember, handling timeouts efficiently can greatly improve the performance and user experience of your applications. If you enjoyed this video, please give it a thumbs up and don't forget to subscribe for more tech tutorials and tips. Leave a comment below if you have any questions or topics you'd like us to cover in future videos. Thanks for watching, and we'll see you in the next one!"
+
+# Here's a follow-up section to encourage engagement and support for Netcode-Hub:
+🌟 Get in touch with Netcode-Hub! 📫
+1. GitHub: [Explore Repositories](https://github.com/Netcode-Hub/Netcode-Hub) 🌐
+2. Twitter: [Stay Updated](https://twitter.com/NetcodeHub) 🐦
+3. Facebook: [Connect Here](https://web.facebook.com/NetcodeHub) 📘
+4. LinkedIn: [Professional Network](https://www.linkedin.com/in/netcode-hub-90b188258/) 🔗
+5. Email: Email: [business.netcodehub@gmail.com](mailto:business.netcodehub@gmail.com) 📧
+   
+# ☕️ If you've found value in Netcode-Hub's work, consider supporting the channel with a coffee!
+1. Buy Me a Coffee: [Support Netcode-Hub](https://www.buymeacoffee.com/NetcodeHub) ☕️
+2. Patreon: [Support on Patreon](https://patreon.com/user?u=113091185&utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink) 🌟
